@@ -1,0 +1,53 @@
+blueprints = {
+    {
+        category = 'tools',
+        items = {
+            'Crossbow', 'Crossbow Ammo', 'Bandage', 'Planner', 'Hammer', 'Hatchet', 'Pickaxe', 'Chainsaw', 'JackHammer', 'Sticks', 'Locker'
+        },
+    },
+    {
+        category = 'objects',
+        items = {
+            'Wardrobe', 'Wall', 'Baú Pequeno', 'Baú Grande', 'Fornalha', 'Cama', 'Mesa de pesquisa', 'Workbench', 'Workbench Level 2', 'Sentry', 'Espetos', 'Poço', 'Placa', 'Sandbags',
+            'Barricade', 'Planter', 'Fogueira', 'Fixed Torch'
+        },
+    },
+    {
+        category = 'weapons',
+        items = {
+            'Rocket Launcher', 'Grenade Launcher', 'Tempered AK', 'AK', 'LR-300', 'M39', 'Bolt', 'MP5', 'Thompson', 'Custom SMG', 'Spas', 'Double Barreled', 'Flamethrower', 'M92', 'Revolver',
+            'Python'
+        },
+    },
+    {
+        category = 'ammunition',
+        items = {
+            'M249 Ammo', 'AK Ammo', 'LR-300 Ammo', 'M39 Ammo', 'Sniper Ammo', 'Shotgun Ammo', 'Sub Ammo',
+            'Pistol Ammo', 'Flame Ammo', 'Sentry Ammo'
+        },
+    },
+    {
+        category = 'explosives',
+        items = {
+            'Gunpowder', --[['Beans Can Grenade',]]'Rocket Launcher Ammo','Grenade Launcher Ammo', 'Grenade', 'C4', 'Satchel'
+        },
+    },
+    {
+        category = 'misc2',
+        items = {
+            'Helmet', 'Vest'
+        },
+    },
+    {
+        category = 'misc',
+        items = {
+             'Camisa 1', 'Camisa 2', 'Camisa 3', 'Camisa 4', 'Camisa 5', 'Camisa 6', 'Camisa 7', 'Camisa 8', 'Camisa 9', 'Camisa 10', 'Camisa 11', 'Camisa 12', 'Camisa 13', 'Camisa 14', 'Camisa 15', 'Calca 1', 'Calca 2', 'Calca 3', 'Calca 5', 'Calca 10' , 'Calca 10', 'Sapato 1', 'Sapato 2', 'Sapato 3', 'Sapato 4', 'Sapato 5', 'Sapato 6', 'Sapato 7'
+        },
+    },
+    {
+        category = 'medicaments',
+        items = {
+            'Syringe Kit', 'Blood Bag'
+        },
+    },
+}
